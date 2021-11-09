@@ -1,0 +1,5 @@
+homepage: "https://github.com/PropertyBrands/btt-rezfusion-hub-transaction-mapper"
+documentation: "https://github.com/PropertyBrands/btt-rezfusion-hub-transaction-mapper"
+versions:
+  - sha: b074883710580af91743c06b6d37ff8d3ddcf735
+    changeNotes: Initial release.
